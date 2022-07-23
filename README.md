@@ -1,5 +1,7 @@
 # OnePlus-Clone (Responsive) Using TailwindCss
 
+[Click Here To Redirect To The Clone Website](https://oneplus-clone.herokuapp.com/index.html)
+
 ## Desktop View
 ![image](https://user-images.githubusercontent.com/109794266/180615282-c76c1258-8715-46fd-96aa-9b0014f61a92.png)
 
