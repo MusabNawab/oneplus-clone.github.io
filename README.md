@@ -11,3 +11,10 @@
 
 ### (NOTE: Only landing page,login & signup page and about page is developed)
 ### (Front End Only!)
+
+### Requirements:
+#### nodejs
+
+#### Run this Commands:
+### npm i (It will generate node module folder)
+### npm run start (A live server will start with port 3000)
