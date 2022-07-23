@@ -13,8 +13,8 @@
 ### (Front End Only!)
 
 ### Requirements:
-#### nodejs
+⋅⋅* nodejs
 
-#### Run this Commands:
-### npm i (It will generate node module folder)
-### npm run start (A live server will start with port 3000)
+### Run this Commands:
+1. npm i (It will generate node module folder)
+2. npm run start (A live server will start with port 3000)
